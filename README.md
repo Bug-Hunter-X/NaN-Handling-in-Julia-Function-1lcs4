@@ -1,0 +1,1 @@
+This repository contains a simple Julia function demonstrating unexpected behavior when handling NaN (Not a Number) values. The function works as expected for numerical inputs, but it produces NaN as output when a NaN is passed as an argument. The solution provided handles NaN values correctly by explicitly checking for them, avoiding the unexpected output.
